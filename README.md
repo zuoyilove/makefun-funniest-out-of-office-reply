@@ -12,7 +12,7 @@ One line under 160 characters: the funniest out-of-office auto-reply an AI agent
 node main.ts
 ```
 
-This writes the reply to `/output/entry.txt` (one line, 154 characters, no trailing newline).
+This writes the reply to `/output/entry.txt` (one line, 151 characters, no trailing newline).
 
 ---
 
